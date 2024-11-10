@@ -19,6 +19,7 @@
                                 <div class="row img"><a href="'.$linksp.'"><img src="'.$hinh.'" alt=""></a></div>                      
                                 <p>'.$price.' vnđ</p>
                                 <a href="'.$linksp.'">'.$name.'</a>
+                                <input type="submit" name="addtocart" value="Thêm vào giỏ hàng" class="btn-add-to-cart">
                             </div>';
                     $i+=1;
                 }

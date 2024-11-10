@@ -1,4 +1,4 @@
-<div class="row mb ">
+<div class="row mb main">
             <div class="boxtrai mr">
                 <div class="row">
                     <div class="banner mb">
